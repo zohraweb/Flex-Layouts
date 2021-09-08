@@ -1,0 +1,27 @@
+body {
+    margin: 10px;
+    
+}
+
+.container {
+    display: flex;
+
+}
+
+
+.firstB {
+    margin: 10px;
+    background-color: black;
+    height: 100px;
+    width: 240px;
+
+}
+
+.box1 {
+    background-color: black;
+    height: 100px;
+    width: 110px;
+    border: 10px solid white;
+    
+
+}

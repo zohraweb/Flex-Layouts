@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    
+}
+
+.container {
+display: flex;
+
+}
+.box {
+    margin: 10px;
+    background-color: black;
+    height: 80px;
+    width: 380px;  
+}
+.box1 {
+    background-color: black;
+    height: 340px;
+    width: 80px;
+    border: 10px solid white;
+
+}
+.box2 {
+    background-color: black;
+    height: 340px;
+    width: 80px;
+    border: 10px solid white;
+
+}
+
+.box3 {
+    background-color: black;
+    height: 340px;
+    width: 80px;
+    border: 10px solid white;
+}
+.box4 {
+    background-color: black;
+    height: 340px;
+    width: 80px;
+    border: 10px solid white;
+}
+.boxl {
+    margin: 10px;
+    background-color: black;
+    height: 80px;
+    width: 380px;  
+}
+

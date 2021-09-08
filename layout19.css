@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    
+}
+
+.container {
+display: flex;
+
+}
+.box {
+    margin: 10px;
+    background-color: black;
+    height: 80px;
+    width: 340px;  
+}
+.box1 {
+    background-color: black;
+    height: 200px;
+    width: 160px;
+    border: 10px solid white;
+
+}
+

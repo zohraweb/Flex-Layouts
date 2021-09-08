@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    
+}
+.top-box1 {
+    margin: 9px;
+    background-color: black;
+    height: 80px;
+    width: 180px;  
+    display: inline-flex;
+}
+.top-box2 {
+    
+    background-color: black;
+    height: 80px;
+    width: 80px; 
+    display: inline-flex;
+    border: 8px solid white;
+
+}
+.box1 {
+    background-color: black;
+    height: 450px;
+    width: 80px;
+    border: 10px solid white;
+
+  }
+  .box2 {
+    background-color: black;
+    height: 450px;
+    width: 80px;
+    border: 10px solid white;
+
+  }
+
+  .box3 {
+    background-color: black;
+    height: 450px;
+    width: 80px;
+    border: 10px solid white;
+  }
+  
+  #flex {
+    display: flex;
+    }

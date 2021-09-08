@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    
+}
+.wrapper {
+    display: inline-flex;
+
+}
+
+
+
+.row {
+
+    background-color: black;
+    height: 80px;
+    width: 300px;
+    border: 10px solid white;
+}
+.column {
+    background-color: black;
+    height: 450px;
+    width: 80px;
+    border: 10px solid white;
+    
+}
+
+.top {
+    
+    background-color: black;
+    height: 80px;
+    width: 200px;  
+    margin: 11px;
+    
+    
+}
+
+.sub-item {
+    display: flex;
+    
+}
+.box1{
+    background-color: black;
+    height: 350px;
+    width: 90px;
+    border: 10px solid white;
+    }
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    
+}
+.wrapper {
+    display: inline-flex;
+
+}
+
+.container2 {
+    display: flex;
+}
+
+
+
+.row {
+
+    background-color: black;
+    height: 80px;
+    width: 300px;
+    border: 10px solid white;
+}
+.column1 {
+    background-color: black;
+    height: 450px;
+    width: 80px;
+    border: 10px solid white;
+    
+}
+.column2 {
+    background-color: black;
+    height: 450px;
+    width: 200px;
+    border: 10px solid white;
+    
+}
+
+
+
+
+
+
+
